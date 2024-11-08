@@ -23,6 +23,7 @@
 #data (excludes everything in the folder data)
 Data/*
 plots/*
+MossExperiment/*
 
 # you can make exceptions for specific files
 
